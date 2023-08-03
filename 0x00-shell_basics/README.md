@@ -7,3 +7,4 @@
 6-firstdirectory = mkdir /tmp/my_first_directory/
 7-movethatfile = mv /tmp/betty /tmp/my_first_directory/
 8-firstdelete = rm /tmp/my_first_directory/betty
+9-firstdirdeletion = rm -rf /tmp/my_first_directory
