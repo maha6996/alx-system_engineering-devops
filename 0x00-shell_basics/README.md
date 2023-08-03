@@ -4,3 +4,4 @@
 3-listfiles = ls -l
 4-listmorefiles = ls -al
 5-listfilesdigitonly = ls -al
+6-firstdirectory = mkdir /tmp/my_first_directory/
