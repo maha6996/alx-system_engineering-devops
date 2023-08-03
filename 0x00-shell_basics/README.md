@@ -3,3 +3,4 @@
 2-bring_me_home = cd ~
 3-listfiles = ls -l
 4-listmorefiles = ls -al
+5-listfilesdigitonly = ls -al
